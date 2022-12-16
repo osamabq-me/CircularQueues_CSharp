@@ -144,7 +144,7 @@ namespace CircularQueues_CSharp
                             break;
                         case '4':
                             Console.WriteLine("\nThanks for using my program");
-                            Thread.Sleep(2000);
+                            Thread.Sleep(2500);
                             Environment.Exit(0);
                             break;
                         default:
